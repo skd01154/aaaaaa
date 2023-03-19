@@ -5,6 +5,5 @@
   </head>
   <body>
     <table id="board"></table>
-    <script src="script.js"></script>
   </body>
 </html>
