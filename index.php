@@ -4,8 +4,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-<?php
-    echo phpinfo();   
-?>
+<table id="board"></table>
+    <script src="script.js"></script>
   </body>
 </html>
